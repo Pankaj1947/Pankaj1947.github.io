@@ -94,8 +94,8 @@ export const whatido = {
       id: "11",
     },
     {
-      name: "Vercel",
-      iconifyClassName: "logos:vercel",
+      name: "Netlify",
+      iconifyClassName: "logos:netlify",
       id: "12",
     },
     {
