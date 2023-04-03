@@ -16,7 +16,7 @@ export const main = {
   name: "Pankaj Kumar Ram",
   doamin: "Full Stack Web Developer",
   resume:
-    "https://drive.google.com/file/d/1MApGt8JYMiDC9LvgTTrhqzV1W2eeAPXx/view",
+    "https://drive.google.com/file/d/1E7CCLoe-7D5dLca_JD7qL4uXTKDlVm8L/view",
 };
 
 // AboutMe
