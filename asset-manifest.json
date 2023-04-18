@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.1007fb71.chunk.css",
-    "main.js": "/static/js/main.393128fe.chunk.js",
-    "main.js.map": "/static/js/main.393128fe.chunk.js.map",
+    "main.css": "/static/css/main.32fe7163.chunk.css",
+    "main.js": "/static/js/main.79ff9c5c.chunk.js",
+    "main.js.map": "/static/js/main.79ff9c5c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.887afa41.js",
     "runtime-main.js.map": "/static/js/runtime-main.887afa41.js.map",
-    "static/js/2.1bc4e659.chunk.js": "/static/js/2.1bc4e659.chunk.js",
-    "static/js/2.1bc4e659.chunk.js.map": "/static/js/2.1bc4e659.chunk.js.map",
+    "static/js/2.634b953f.chunk.js": "/static/js/2.634b953f.chunk.js",
+    "static/js/2.634b953f.chunk.js.map": "/static/js/2.634b953f.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.1007fb71.chunk.css.map": "/static/css/main.1007fb71.chunk.css.map",
-    "static/js/2.1bc4e659.chunk.js.LICENSE.txt": "/static/js/2.1bc4e659.chunk.js.LICENSE.txt",
-    "static/media/Navbar.css": "/static/media/Agustina.eb0c59dd.woff"
+    "static/css/main.32fe7163.chunk.css.map": "/static/css/main.32fe7163.chunk.css.map",
+    "static/js/2.634b953f.chunk.js.LICENSE.txt": "/static/js/2.634b953f.chunk.js.LICENSE.txt",
+    "static/media/Navbar.css": "/static/media/Agustina.eb0c59dd.woff",
+    "static/media/Pankaj_Kumar_Ram.e2f4d6e4.pdf": "/static/media/Pankaj_Kumar_Ram.e2f4d6e4.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.887afa41.js",
-    "static/js/2.1bc4e659.chunk.js",
-    "static/css/main.1007fb71.chunk.css",
-    "static/js/main.393128fe.chunk.js"
+    "static/js/2.634b953f.chunk.js",
+    "static/css/main.32fe7163.chunk.css",
+    "static/js/main.79ff9c5c.chunk.js"
   ]
 }
