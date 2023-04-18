@@ -39,4 +39,31 @@ p.copyright {
     margin-top: 25px;
     margin-bottom: 25px;
   }
+  .icons {
+    display: inline;
+    margin: 0 25px 0 0;
+  }
+
+  .icon {
+    text-align: center;
+  }
+}
+
+@media (max-width: 770px) {
+  .contact-title {
+    font-size: 35px;
+    margin-bottom: 50px;
+  }
+  hr.style-f {
+    margin-top: 25px;
+    margin-bottom: 25px;
+  }
+  .icons {
+    display: inline;
+    margin: 0 25px 0 0;
+  }
+
+  .icon {
+    text-align: center;
+  }
 }

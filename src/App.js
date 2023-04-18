@@ -9,6 +9,7 @@ import Contact from "./pages/Contact";
 import { globalStyles } from "./portfolio";
 import Loader from "./components/loaders/Loader";
 import ReactGA from "react-ga";
+import {GithubStats} from "./pages/Github";
 ReactGA.initialize("UA-208216831-1");
 
 function App() {
@@ -26,6 +27,7 @@ function App() {
       <Main />
       <Aboutme />
       <Whatido />
+      <GithubStats/>
       <Projects />
       <Contact />
     </div>
