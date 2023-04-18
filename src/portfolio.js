@@ -1,8 +1,8 @@
 //I Would Highly Recommend You To Customize The Theme According To Your Taste.
 export const globalStyles = {
   "--grad": "linear-gradient(315deg,#48a9fe,#00cdac)", // Use gradients only
-  // "--grad": "linear-gradient(315deg, #48a9fe 0%, #734ae8 74%)", // Use gradients only
-  // "--grad": "linear-gradient(315deg, #06bcfb 0%, #4884ee 74%)",
+  "--grad": "linear-gradient(315deg, #48a9fe 0%, #734ae8 74%)", // Use gradients only
+  "--grad": "linear-gradient(315deg, #06bcfb 0%, #4884ee 74%)",
   "--txtcolor": "#272341",
   "--p_color": "#00cdac",
   "--s_color": "#fff",
@@ -115,6 +115,24 @@ export const whatido = {
 export const details = [
   {
     id: 1,
+    title: "CertiDigital",
+    desc: "Previously, Masai School used to create certificates for students' achievements manually with the help of Google Sheets which consumed a lot of time. In order to overcome this dependency on Google Sheets and reduce manual efforts, we created a website so that the Masai School team could create certificates in bulk and send them to their respective student’s email.",
+    img: "https://github.com/masai-builds/Masai-Placement-Portal/raw/main/public/demo.png",
+    github: "https://github.com/masai-builds/Certidigital",
+    link: "Tech Stack : React, Redux, HTML Canvas, Ant Design, Express, MongoDB, JWT, Redis",
+    deploy: "https://certidigital.netlify.app/",
+  },
+  {
+    id: 2,
+    title: "Masai Placement Portal",
+    desc: "This is the Masai Build and Earn Project. We built this website where the Placement team can bring companies from different sources and update them on the portal so that students can apply according to their skill sets. While working on this project, we learned a lot about teamwork, coordination, and thinking along with all the team members. 😊",
+    img: "https://github.com/masai-builds/Masai-Placement-Portal/raw/main/public/demo.png",
+    github: "https://github.com/masai-builds/Masai-Placement-Portal",
+    link: "Tech Stack : React, Redux, Ant Design, Express, MongoDB, JWT, Redis, Swagger, Winston",
+    deploy: "https://masai-placement-portal.netlify.app/",
+  },
+  {
+    id: 3,
     title: "Clone of PharmEasy",
     desc: "PharmEasy is a leading online healthcare platform in India that connects patients with local pharmacies and diagnostic centers to provide a wide range of healthcare services. The platform offers a convenient way for patients to order prescription and over-the-counter medications, health supplements, and personal care products from the comfort of their homes.",
     img: "https://github.com/Saraswati121/imported-existence-8823/raw/main/frontend/public/Home%20Page.png?raw=true'",
@@ -123,7 +141,7 @@ export const details = [
     deploy: "https://pharmeasy-clone-nem201.netlify.app/",
   },
   {
-    id: 2,
+    id: 4,
     title: "Clone of Boat-LifeStyle",
     desc: "Boat Lifestyle is a consumer electronics brand that primarily offers audio-related products such as earphones, headphones, speakers, and soundbars. The company was founded in 2016 and is headquartered in Mumbai, India. The Boat Lifestyle website offers a variety of products categorized into different sections such as 'Audio', 'Smart Watches', 'Home Audio', 'Accessories', and 'Shop by Collection'. Customers can browse and purchase products directly from the website.",
     img: "https://github.com/Pankaj1947/Boat_LifeStyle/blob/main/public/HomePage.png?raw=true",
@@ -132,22 +150,13 @@ export const details = [
     deploy: "https://boat-lifestyles.netlify.app/",
   },
   {
-    id: 3,
+    id: 5,
     title: "Clone of HealthKart",
     desc: "HealthKart is an Indian online health and fitness store that offers a wide range of health and wellness products, including dietary supplements, protein supplements, vitamins and minerals, herbal supplements, health drinks, fitness equipment, and accessories. It was founded in 2011 by Sameer Maheshwari and Prashant Tandon and is headquartered in Gurugram, India.",
     img: "Images/HealthKart.png",
     link: "Tech Stack : HTML, Css, Javascript",
     github: "https://github.com/hlv-kakashi/HEALTHKART",
     deploy: "https://health-kart.netlify.app/",
-  },
-  {
-    id: 4,
-    title: "Weather Forecast",
-    desc: "A scientific yet simple approach to weather forecast built with HTML, CSS & JavaScript using openweather api.",
-    img: "https://github.com/Pankaj1947/Weather-Forcast/blob/main/Weather%20Forecast.png?raw=true",
-    github: "https://github.com/Pankaj1947/Weather-Forcast",
-    link: "Tech Stack : HTML, Css, Javascript",
-    deploy: "https://weather-forcastt.netlify.app/",
   },
 ];
 
