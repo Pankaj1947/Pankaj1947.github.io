@@ -18,14 +18,16 @@ const Project = (props) => {
               <div>
                 <p className="p">{props.desc}</p>
                 <p>{props.link} </p>
-                <button>
-                  <span>
-                    {" "}
-                    <a id="a" target="_blank" href={props.github}>
-                      Source Code{" "}
-                    </a>
-                  </span>
-                </button>
+                {props.github && ( // check if github link is available
+                  <button>
+                    <span>
+                      {" "}
+                      <a id="a" target="_blank" href={props.github}>
+                        Source Code{" "}
+                      </a>
+                    </span>
+                  </button>
+                )}
                 <button>
                   <span>
                     {" "}
