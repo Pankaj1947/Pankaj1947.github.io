@@ -1,8 +1,8 @@
 //I Would Highly Recommend You To Customize The Theme According To Your Taste.
 export const globalStyles = {
   "--grad": "linear-gradient(315deg,#48a9fe,#00cdac)", // Use gradients only
-  "--grad": "linear-gradient(315deg, #48a9fe 0%, #734ae8 74%)", // Use gradients only
-  "--grad": "linear-gradient(315deg, #06bcfb 0%, #4884ee 74%)",
+  // "--grad": "linear-gradient(315deg, #48a9fe 0%, #734ae8 74%)", // Use gradients only
+  // "--grad": "linear-gradient(315deg, #06bcfb 0%, #4884ee 74%)",
   "--txtcolor": "#272341",
   "--p_color": "#00cdac",
   "--s_color": "#fff",
@@ -117,7 +117,7 @@ export const details = [
     id: 1,
     title: "CertiDigital",
     desc: "Previously, Masai School used to create certificates for students' achievements manually with the help of Google Sheets which consumed a lot of time. In order to overcome this dependency on Google Sheets and reduce manual efforts, we created a website so that the Masai School team could create certificates in bulk and send them to their respective student’s email.",
-    img: "https://github.com/masai-builds/Masai-Placement-Portal/raw/main/public/demo.png",
+    img: "https://github.com/masai-builds/Certidigital/raw/master/public/Images/CertiDigital%20Hero%20Image.png",
     github: "https://github.com/masai-builds/Certidigital",
     link: "Tech Stack : React, Redux, HTML Canvas, Ant Design, Express, MongoDB, JWT, Redis",
     deploy: "https://certidigital.netlify.app/",
