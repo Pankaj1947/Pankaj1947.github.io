@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.32fe7163.chunk.css",
-    "main.js": "/static/js/main.95c56caa.chunk.js",
-    "main.js.map": "/static/js/main.95c56caa.chunk.js.map",
+    "main.css": "/static/css/main.1ee45701.chunk.css",
+    "main.js": "/static/js/main.ec28f650.chunk.js",
+    "main.js.map": "/static/js/main.ec28f650.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.887afa41.js",
     "runtime-main.js.map": "/static/js/runtime-main.887afa41.js.map",
     "static/js/2.634b953f.chunk.js": "/static/js/2.634b953f.chunk.js",
     "static/js/2.634b953f.chunk.js.map": "/static/js/2.634b953f.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.32fe7163.chunk.css.map": "/static/css/main.32fe7163.chunk.css.map",
+    "static/css/main.1ee45701.chunk.css.map": "/static/css/main.1ee45701.chunk.css.map",
     "static/js/2.634b953f.chunk.js.LICENSE.txt": "/static/js/2.634b953f.chunk.js.LICENSE.txt",
     "static/media/Navbar.css": "/static/media/Agustina.eb0c59dd.woff",
     "static/media/Pankaj_Kumar_Ram_Resume.8605e9e7.pdf": "/static/media/Pankaj_Kumar_Ram_Resume.8605e9e7.pdf"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.887afa41.js",
     "static/js/2.634b953f.chunk.js",
-    "static/css/main.32fe7163.chunk.css",
-    "static/js/main.95c56caa.chunk.js"
+    "static/css/main.1ee45701.chunk.css",
+    "static/js/main.ec28f650.chunk.js"
   ]
 }
