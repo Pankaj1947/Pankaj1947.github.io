@@ -16,7 +16,7 @@ export const main = {
   name: "Pankaj Kumar Ram",
   doamin: "Full Stack Web Developer",
   resume:
-    "https://drive.google.com/file/d/1E7CCLoe-7D5dLca_JD7qL4uXTKDlVm8L/view",
+    "https://drive.google.com/file/d/16UXcD1hOGzVVWTfDStCzZuJ4nDaCEpaH/view?usp=share_link",
 };
 
 // AboutMe
@@ -117,7 +117,7 @@ export const details = [
     id: 1,
     title: "CertiDigital",
     desc: "Previously, Masai School used to create certificates for students' achievements manually with the help of Google Sheets which consumed a lot of time. In order to overcome this dependency on Google Sheets and reduce manual efforts, we created a website so that the Masai School team could create certificates in bulk and send them to their respective student’s email.",
-    img: "https://github.com/masai-builds/Certidigital/raw/master/public/Images/CertiDigital%20Hero%20Image.png",
+    img: "/Images/CertiDigitalHeroImage.png",
     // github: "https://github.com/masai-builds/Certidigital",
     link: "Tech Stack : React, Redux, HTML Canvas, Ant Design, Express, MongoDB, JWT, Redis",
     deploy: "https://certidigital.netlify.app/",
@@ -126,7 +126,7 @@ export const details = [
     id: 2,
     title: "Masai Placement Portal",
     desc: "This is the Masai Build and Earn Project. We built this website where the Placement team can bring companies from different sources and update them on the portal so that students can apply according to their skill sets. While working on this project, we learned a lot about teamwork, coordination, and thinking along with all the team members. 😊",
-    img: "https://github.com/masai-builds/Masai-Placement-Portal/raw/main/public/demo.png",
+    img: "Images/MasaiPlacementPortal.png",
     // github: "https://github.com/masai-builds/Masai-Placement-Portal",
     link: "Tech Stack : React, Redux, Ant Design, Express, MongoDB, JWT, Redis, Swagger, Winston",
     deploy: "https://masai-placement-portal.netlify.app/",

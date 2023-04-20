@@ -2,14 +2,14 @@ import React from "react";
 import Coder from "../components/Animation/Coder";
 import Zoom from "react-reveal/Zoom";
 import { main } from "../portfolio";
-import resumePDF from "../resume/Pankaj_Kumar_Ram.pdf";
+import resumePDF from "../resume/Pankaj_Kumar_Ram_Resume.pdf";
 import "./Main.css";
 
 function Main() {
   function handleResumeDownload() {
     const link = document.createElement("a");
     link.href = resumePDF;
-    link.download = "Pankaj_Kumar_Ram.pdf";
+    link.download = "Pankaj_Kumar_Ram_Resume.pdf";
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
