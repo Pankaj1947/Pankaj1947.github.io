@@ -1,0 +1,23 @@
+.githubStatsImage {
+  width: 40%;
+}
+ .githubCalender{
+    width: 70%;
+  }
+
+@media (max-width: 770px) {
+  .githubStatsImage {
+    width: 70%;
+  }
+   .githubCalender{
+    width: 95%;
+  }
+}
+@media (max-width: 550px) {
+  .githubStatsImage {
+    width: 95%;
+  }
+  .githubCalender{
+    width: 100%;
+  }
+}
