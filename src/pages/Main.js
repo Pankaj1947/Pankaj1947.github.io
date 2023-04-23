@@ -18,7 +18,7 @@ function Main() {
   return (
     <section className="mainX" id="main">
       <div className="fluid-container">
-        <Zoom duration={800}>
+        <Zoom duration={1000}>
           <div className="row">
             <div className="col-lg-6 ">
               <div className="mobile">

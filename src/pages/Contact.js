@@ -8,7 +8,7 @@ const Contact = () => {
   return (
     <div className="contact" id="contact">
       <h1 className="contact-title">
-        <Fade bottom cascade duration={500}>
+        <Fade bottom cascade duration={1000}>
           Reach Out To Me!
         </Fade>
       </h1>

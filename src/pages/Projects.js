@@ -8,7 +8,7 @@ const Projects = () => {
   return (
     <section className="projects" id="projects">
       <h1 className="project-title">
-        <Fade bottom cascade duration={800}>
+        <Fade bottom cascade duration={1000}>
           Projects
         </Fade>
       </h1>

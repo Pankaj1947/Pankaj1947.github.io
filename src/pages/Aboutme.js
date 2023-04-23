@@ -7,13 +7,13 @@ function Aboutme() {
   return (
     <section className="aboutme" id="aboutme">
       <h1 className="title">
-        <Fade bottom cascade duration={800}>
+        <Fade bottom cascade duration={1000}>
           About ME
         </Fade>
       </h1>
       <div className="fluid-container">
         <div className="row">
-          <Fade left cascade duration={800}>
+          <Fade left cascade duration={1000}>
             <div className="col-lg-5 col-md-5 image">
               <img
                 className="aboutme-img"
@@ -24,7 +24,7 @@ function Aboutme() {
               />
             </div>
           </Fade>
-          <Fade bottom cascade duration={800}>
+          <Fade bottom cascade duration={1000}>
             <div className="col-lg-7 col-md-7 text">
               <p>{aboutme.p1}</p>
               <p>{aboutme.p2}</p>

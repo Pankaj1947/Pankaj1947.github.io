@@ -6,10 +6,10 @@ import Logo from "./Logo";
 
 const Whatido = () => {
   return (
-    <Fade bottom cascade duration={800}>
+    <Fade bottom cascade duration={1000}>
       <section id="whatido">
         <h1 className="Whatido-title">
-          <Fade bottom cascade duration={800}>
+          <Fade bottom cascade duration={1000}>
             Skills{" "}
           </Fade>
         </h1>

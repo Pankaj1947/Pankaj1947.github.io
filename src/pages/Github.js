@@ -7,9 +7,9 @@ export const GithubStats = () => {
   return (
     <div>
       <div>
-        <Zoom duration={800}>
+        <Zoom duration={1000}>
           <h1 className="contact-title">
-            <Fade bottom cascade duration={500}>
+            <Fade bottom cascade duration={1000}>
               GitHub Stats
             </Fade>
           </h1>
